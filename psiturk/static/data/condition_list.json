@@ -1,0 +1,104 @@
+{
+  "stimulus": [
+    {
+      "trial_id": 13,
+      "trial_init_img": "hand_13.jpg",
+      "trial_final_img": "hand_13_f.jpg"
+    },
+    {
+      "trial_id": 4,
+      "trial_init_img": "hand_4.jpg",
+      "trial_final_img": "hand_4_f.jpg"
+    },
+    {
+      "trial_id": 14,
+      "trial_init_img": "hand_14.jpg",
+      "trial_final_img": "hand_14_f.jpg"
+    },
+    {
+      "trial_id": 10,
+      "trial_init_img": "hand_10.jpg",
+      "trial_final_img": "hand_10_f.jpg"
+    },
+    {
+      "trial_id": 20,
+      "trial_init_img": "hand_20.jpg",
+      "trial_final_img": "hand_20_f.jpg"
+    },
+    {
+      "trial_id": 18,
+      "trial_init_img": "hand_18.jpg",
+      "trial_final_img": "hand_18_f.jpg"
+    },
+    {
+      "trial_id": 17,
+      "trial_init_img": "hand_17.jpg",
+      "trial_final_img": "hand_17_f.jpg"
+    },
+    {
+      "trial_id": 15,
+      "trial_init_img": "hand_15.jpg",
+      "trial_final_img": "hand_15_f.jpg"
+    },
+    {
+      "trial_id": 7,
+      "trial_init_img": "hand_7.jpg",
+      "trial_final_img": "hand_7_f.jpg"
+    },
+    {
+      "trial_id": 12,
+      "trial_init_img": "hand_12.jpg",
+      "trial_final_img": "hand_12_f.jpg"
+    },
+    {
+      "trial_id": 1,
+      "trial_init_img": "hand_1.jpg",
+      "trial_final_img": "hand_1_f.jpg"
+    },
+    {
+      "trial_id": 19,
+      "trial_init_img": "hand_19.jpg",
+      "trial_final_img": "hand_19_f.jpg"
+    },
+    {
+      "trial_id": 9,
+      "trial_init_img": "hand_9.jpg",
+      "trial_final_img": "hand_9_f.jpg"
+    },
+    {
+      "trial_id": 16,
+      "trial_init_img": "hand_16.jpg",
+      "trial_final_img": "hand_16_f.jpg"
+    },
+    {
+      "trial_id": 3,
+      "trial_init_img": "hand_3.jpg",
+      "trial_final_img": "hand_3_f.jpg"
+    },
+    {
+      "trial_id": 11,
+      "trial_init_img": "hand_11.jpg",
+      "trial_final_img": "hand_11_f.jpg"
+    },
+    {
+      "trial_id": 6,
+      "trial_init_img": "hand_6.jpg",
+      "trial_final_img": "hand_6_f.jpg"
+    },
+    {
+      "trial_id": 8,
+      "trial_init_img": "hand_8.jpg",
+      "trial_final_img": "hand_8_f.jpg"
+    },
+    {
+      "trial_id": 2,
+      "trial_init_img": "hand_2.jpg",
+      "trial_final_img": "hand_2_f.jpg"
+    },
+    {
+      "trial_id": 5,
+      "trial_init_img": "hand_5.jpg",
+      "trial_final_img": "hand_5_f.jpg"
+    }
+  ]
+}

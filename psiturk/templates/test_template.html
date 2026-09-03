@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+		<link rel="stylesheet" href="../static/css/bootstrap.min.css" type="text/css" />
+        <link rel="stylesheet" href="../static/css/style.css">
+        <title></title>
+    </head>
+
+    <body>
+        <div id="trials_section">
+            <div class="row_blank"></div>
+
+            <div id="action_inference_row" class="row">
+                <div class="column left" style="text-align: end; width: 45%;">
+
+                    <h1>Initial Configuration &thinsp;</h1>
+
+                    <img id="action_inference_init_img"
+                         src="../static/images/action_a1.JPG"
+                         alt="Action Inference Image Left"
+                         style="width: 350px; float: right">
+                </div>
+                <div class="column middle " style="width: 10%">
+                    <img class="center_image_container_special"
+                         src="../static/images/arrow.png"
+                         alt="Right Arrow"
+                         style="width: 150px">
+                </div>
+                <div class="column right" style="text-align: start; width: 45%;">
+
+                    <h1>&thinsp;&thinsp; Final Configuration </h1>
+
+                    <img id="action_inference_final_img"
+                         src="../static/images/action_a1_f.JPG"
+                         alt="Action Inference Image Right"
+                         style="width: 350px; float: left">
+                </div>
+            </div>
+
+            <div class="row_blank_50"></div>
+
+            <div class="row" style="text-align: center">
+                <h1 id="question_prompt">Here is the question: </h1>
+            </div>
+
+            <div class="row_blank_50"></div>
+
+            <div class="row">
+                <div class="column left" style="width: 40%">
+                    <div class="column left" style="width: 80%">
+                        <img id="option_left_img"
+                             class="center_image_container"
+                             src="../static/images/goal_a1_opt_1.JPG"
+                             alt="Option Left"
+                             style="width: 300px; float: right">
+                    </div>
+                    <div class="column left" style="width: 20%; text-align:center;">
+                        <label for="opt1" class="radio" style="position:relative; margin-top: 75px; float: left">
+                            <input type="radio" name="rdo" id="opt1" class="hidden_radio"/>
+                            <span class="label"></span>
+                        </label>
+                    </div>
+                </div>
+                <div class="column middle" style="width: 20%; ">
+
+                </div>
+                <div class="column right" style="width: 40%">
+                    <div class="column right" style="width: 20%;">
+                        <label for="opt2" class="radio" style="position:relative; margin-top: 75px; padding-right: 15px; float: right">
+                            <input type="radio" name="rdo" id="opt2" class="hidden_radio"/>
+                            <span class="label"></span>
+                        </label>
+                    </div>
+                    <div class="column left" style="width: 80%">
+                        <img id="option_right_img"
+                             class="center_image_container"
+                             src="../static/images/goal_a1_opt_2.JPG"
+                             alt="Option Right"
+                             style="width: 300px; float: left">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="column left" style="width: 46%;"></div>
+                <div class="column middle center-block unselectable"
+                     style="width: 8%;"
+                     onmousedown="return false;">
+                    <a id="next_trial" class="button5" style="background-color:#42cc8c;">NEXT</a>
+                    <div class="row" style="text-align: center; padding-left: 14px">
+                        <h4 id="progress">11 / 17</h4>
+                    </div>
+                </div>
+                <div class="column right" style="width: 46%;"></div>
+            </div>
+        </div>
+    </body>
+</html>
